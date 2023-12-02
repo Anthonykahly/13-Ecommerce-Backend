@@ -26,7 +26,11 @@ Users will need to run "npm i" to install all required files.
 
 User will need to enter the following commands into their terminal:
 
-- npm run start
+```
+-npm i
+-npm run seed
+-npm start
+```
 
 ## Licenses
 
