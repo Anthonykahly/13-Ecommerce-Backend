@@ -39,6 +39,7 @@ User will need to enter the following commands into their terminal:
 ## Tests
 
 This project was tested via running the script and ensuring that all pathways worked properly.
+![Photo of insomnia testing routes](./assets/Insomnia.png)
 
 ## Contributors
 
